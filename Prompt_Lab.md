@@ -16,6 +16,7 @@ The dataset used in this project contains the following columns and values:
     - **Fuel Types**: 
         - BEV (Battery Electric Vehicles)
         - Diesel (Diesel-powered vehicles)
+          
     - **Example Vehicle IDs**: 
         - BEV_S1_2023, BEV_S2_2023, BEV_S3_2023, BEV_S4_2023, Diesel_S1_2023
 
